@@ -1,0 +1,20 @@
+{
+  "name": "seajs-wrap",
+  "version": "1.0.2",
+  "homepage": "https://github.com/zwhyde/seajs-wrap",
+  "authors": [
+    "zwhyde <zwhyde@gmail.com>"
+  ],
+  "main": "dist/seajs-wrap.js",
+  "keywords": [
+    "seajs"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
